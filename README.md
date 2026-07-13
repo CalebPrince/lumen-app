@@ -43,7 +43,6 @@ Nav, bento grid, and carousel patterns were sourced from the 21st.dev component 
 - All product renders (hero orb, product lineup icons, carousel chapter art) are abstract SVG gradients — swap for real product photography/renders when available.
 - No routing — single scrolling page.
 - No backend/checkout — all "Buy"/"Order now" links scroll to the footer.
-- The original repo directory (an unrelated PHP multi-tenant app, "IntakeEngine") was found fully deleted from disk before this project started; that issue was set aside at the user's direction and is unresolved.
 
 ## Verifying changes
 
